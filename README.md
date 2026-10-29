@@ -4,3 +4,4 @@
 - [HTTP - Authentification Basic](Reseau/HTTP-Basic-authentification/README.md)
 - [Authentification Twitter](Reseau/Authentification-Twitter/README.md)
 - [Steganomobile](Steganographie/Steganomobile/README.md)
+- [Authentification-Kerberos](Reseau/Authentification-Kerberos/README.md)
