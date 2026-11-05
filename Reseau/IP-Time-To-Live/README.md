@@ -66,7 +66,7 @@ La cible répond avec un TTL de départ de 64 (valeur courante sur Linux). Le pa
 
 ## Résultat
 
-Le TTL employé pour atteindre l'hôte ciblé est **13**.
+Le TTL employé pour atteindre l'hôte ciblé est **xxxxx**.
 
 ## Conclusion
 
